@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ProjetoApi</name>
+    </assembly>
+    <members>
+        <member name="M:ProjetoApi.Controllers.LoginController.ObterToken(ProjetoApi.Dtos.LoginDto)">
+            <summary>
+            Executa o login retornando um objeto contendo o token.
+            </summary>
+            <param name="login">Informe o e-mail e senha</param>
+            <returns>Retorna um objeto contendo o token.</returns>
+        </member>
+        <member name="M:ProjetoApi.Helpers.Util.GerarHashMD5(System.String)">
+            <summary>
+            Método responsável por receber um texto e efetuar o Hash MD5 do mesmo
+            </summary>
+            <param name="texto"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
