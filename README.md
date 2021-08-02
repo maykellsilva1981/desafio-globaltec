@@ -16,7 +16,9 @@ A base de dados está armazenada em um servidor compartilhado que possuo e se ne
 
 ServerName: mssql.webgyn.com.br
 Login: globaltec
+
 usuário: #M81a53y87
+
 Base: GlobalTec
 
 # Para autenticação inicial na API pode utilizar os dados abaixo:
